@@ -5,4 +5,5 @@ Download
 On your terminal:
 
 $ chmod +x run.sh
+
 $ ./run.sh  
